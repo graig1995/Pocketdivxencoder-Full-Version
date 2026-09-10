@@ -240,3 +240,6 @@ This repository serves as the official landing page for PocketDivXEncoder. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of PocketDivXEncoder today!**
+
+---
+**Last updated:** 2026-09-10 10:12:02 UTC
